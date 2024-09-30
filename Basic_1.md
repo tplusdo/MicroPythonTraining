@@ -3,7 +3,7 @@
 ### What is Wokwi?
 Wokwi is an online platform that allows you to simulate various microcontrollers and electronics projects. It provides a virtual environment where you can design, code, and test your circuits without needing physical hardware. Wokwi supports popular microcontrollers such as Arduino, ESP32, and Raspberry Pi Pico, and you can interact with components like LEDs, buttons, sensors, and more.
 
-![Wokwi online simulator] (https://www.digikey.com/-/media/MakerIO/Images/blogs/2022/Getting%20Started%20with%20the%20Wokwi%20Arduino%20Simulator/wokwi_1.jpg?la=en&ts=1620e85f-fe7e-4c4f-8eca-235e4c554867)
+<img src="https://github.com/tplusdo/MicroPythonTraining/blob/main/image/wokwi%20screenshot.png" width="300">
 
 ### What is ESP32?
 The ESP32 is a low-cost, low-power system-on-chip (SoC) with integrated Wi-Fi and Bluetooth capabilities, designed for IoT (Internet of Things) applications, home automation, and other embedded systems. Developed by Espressif Systems.
