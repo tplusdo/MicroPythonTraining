@@ -1,7 +1,7 @@
 ## Develop MicroPython on Wokwi - Basics
 
 ### What is Wokwi?
-Wokwi is an online platform that allows you to simulate various microcontrollers and electronics projects. It provides a virtual environment where you can design, code, and test your circuits without needing physical hardware. Wokwi supports popular microcontrollers such as Arduino, ESP32, and Raspberry Pi Pico, and you can interact with components like LEDs, buttons, sensors, and more.
+**Wokwi** is an online platform that allows you to simulate various microcontrollers and electronics projects. It provides a virtual environment where you can design, code, and test your circuits without needing physical hardware. Wokwi supports popular microcontrollers such as Arduino, ESP32, and Raspberry Pi Pico, and you can interact with components like LEDs, buttons, sensors, and more.
 
 <img src="https://github.com/tplusdo/MicroPythonTraining/blob/main/image/wokwi%20screenshot.png" width="300">
 https://wokwi.com/
