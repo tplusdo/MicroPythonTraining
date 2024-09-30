@@ -6,8 +6,12 @@
 <img src="https://github.com/tplusdo/MicroPythonTraining/blob/main/image/wokwi%20screenshot.png" width="300">
 https://wokwi.com/
 
+
 ### What is ESP32?
 The ESP32 is a low-cost, low-power system-on-chip (SoC) with integrated Wi-Fi and Bluetooth capabilities, designed for IoT (Internet of Things) applications, home automation, and other embedded systems. Developed by Espressif Systems.
+
+<img src="https://github.com/tplusdo/MicroPythonTraining/blob/main/image/wokwi%20screenshot.png" width="300">
+https://www.espressif.com/en/products/socs/esp32
 
 ### What is MicroPython?
 MicroPython is a lean and efficient implementation of the Python 3 programming language designed to run on microcontrollers and embedded systems. It allows you to write Python code to control hardware components, making it easier to develop firmware for small, resource-constrained devices like the ESP32, ESP8266, Raspberry Pi Pico, and other microcontrollers.
