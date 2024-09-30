@@ -10,7 +10,8 @@ https://wokwi.com/
 ### What is ESP32?
 The ESP32 is a low-cost, low-power system-on-chip (SoC) with integrated Wi-Fi and Bluetooth capabilities, designed for IoT (Internet of Things) applications, home automation, and other embedded systems. Developed by Espressif Systems.
 
-<img src="https://github.com/tplusdo/MicroPythonTraining/blob/main/image/wokwi%20screenshot.png" width="300">
+<img src="https://github.com/tplusdo/MicroPythonTraining/blob/main/image/esp32wroom32.jpg" width="200">
+
 https://www.espressif.com/en/products/socs/esp32
 
 ### What is MicroPython?
